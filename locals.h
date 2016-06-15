@@ -1,0 +1,6 @@
+
+
+enum {
+  NFCT_OF_TIMESTAMP_BIT = 3, 
+  NFCT_OF_TIMESTAMP = (1 << NFCT_OF_TIMESTAMP_BIT) 
+};
